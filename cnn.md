@@ -1,7 +1,6 @@
 Puppies or Kittens? Development of a Convolutional Neural Network to
 Distinguish Between Cats and Dogs Using Keras in R
 ================
-Alex Totten
 May 6, 2018
 
 \#Load Keras library
